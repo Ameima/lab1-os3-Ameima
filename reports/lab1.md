@@ -51,5 +51,5 @@
       
     7. 从 U 态进入 S 态是哪一条指令发生的？  
     
-        __答__：call trap_handler。  
+        __答__：ecall。  
 
